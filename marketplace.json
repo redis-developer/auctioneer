@@ -1,7 +1,7 @@
 {
   "app_name": "Auctioneer - Redis item bidding app",
   "description": "Showcases using Redis Streams and the RedisJson module, allowing you to bid on items in real-time",
-  "hidden": "true", // Can be "true" or "false". If true, this app won't show up in Marketplace.
+  "hidden": "true", 
   "type": "Full App",
   "contributed_by": "Community",
   "repo_url": "https://github.com/coreyc/auctioneer",
