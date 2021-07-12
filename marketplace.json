@@ -17,7 +17,7 @@
     ],
   "language": ["JavaScript"],
   "redis_commands": ["JSON_GET", "JSON_SET", "HGETALL", "HSET", "XREVRANGE", "XADD", "XACK", "XREADGROUP", "XGROUP"],
-  "redis_features": ["Redis Streams"],
+  "redis_features": ["Streams"],
   "redis_modules": ["RedisJSON"],
   "app_image_urls": [
     "https://github.com/redis-developer/auctioneer/blob/master/auctioneer-app-screenshot.png"
