@@ -45,9 +45,9 @@ common (`streams-client.js`):
 - `XGROUP CREATE streamName groupName $ MKSTREAM`
 
 ## Application Architecture
-![Application architecture](./auctioneer-architecture.png "Application architecture")
+![Application architecture](https://raw.githubusercontent.com/redis-developer/auctioneer/master/auctioneer-app-screenshot.png "Application architecture")
 
 ## Using the bidding app
 To use the app and bid on an item, enter a bid into the input box and submit. If you submit without entering anything you will get a validation error on the UI. Also, if the value you enter is not higher than the current highest bid, the bid will not be entered and you will get a validation error.
 
-![App screenshot](./auctioneer-app-screenshot.png "App screenshot")
+![App screenshot](https://raw.githubusercontent.com/redis-developer/auctioneer/master/auctioneer-app-screenshot.png "App screenshot")
