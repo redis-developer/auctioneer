@@ -20,7 +20,7 @@
   "redis_features": ["Streams"],
   "redis_modules": ["RedisJSON"],
   "app_image_urls": [
-    "https://raw.githubusercontent.com/redis-developer/auctioneer/blob/master/auctioneer-app-screenshot.png"
+    "https://raw.githubusercontent.com/redis-developer/auctioneer/master/auctioneer-app-screenshot.png"
   ],
   "youtube_url": "https://www.youtube.com/watch?v=syaIl5sBG80",
   "special_tags": [],
