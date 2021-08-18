@@ -24,7 +24,7 @@
     "https://raw.githubusercontent.com/redis-developer/auctioneer/master/auctioneer-app-screenshot.png"
   ],
   "youtube_url": "https://www.youtube.com/watch?v=txdXgJT7F7A",
-  "special_tags": [],
-  "verticals": ["Financial"],
+  "special_tags": ["Hackathon"],
+  "verticals": ["Financial Services"],
   "markdown": "https://raw.githubusercontent.com/redis-developer/auctioneer/master/README.md"
 }
